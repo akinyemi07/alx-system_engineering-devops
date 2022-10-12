@@ -1,2 +1,2 @@
 #!/bin/bash
-ghmkj
+echo $PATH | tr -s ":" "\n" | wc –l

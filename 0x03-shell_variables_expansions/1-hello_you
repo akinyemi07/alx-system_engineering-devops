@@ -1,2 +1,2 @@
 #!/bin/bash
-tgbjhg
+echo "hello $USER"
